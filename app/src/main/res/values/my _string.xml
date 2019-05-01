@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Please note down this string-->
+
+    <string name="HeaderOne">Headline 1</string>
+    <string name="HeaderTwo">Headline 2</string>
+    <string name="HeaderThree">Headline 3</string>
+    <string name="HeaderFour">Headline 4</string>
+    <string name="HeaderFive">Headline 5</string>
+
+    <string name="Para">PROGRAMMING</string>
+
+    <!--n\ this sign is used for brake line and start fron next line-->
+    <string name="Paragraph">What does programming means? programming is a \nimplementation of logic of facilite specific computer operation and functionality.</string>
+
+
+    <string name="Hello">Hello, world</string>
+    <string name="Hello2">Welcome to Programming</string>
+    <string name="Hello3">with Alex</string>
+
+
+
+</resources>
